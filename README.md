@@ -2,7 +2,7 @@
 
 A small preview plugin that uses feh to display images.
 
-![Preview](https://imgur.com/Vn7iKi4)
+[![Preview](https://imgur.com/Vn7iKi4.png)](https://imgur.com/)
 
 # Keymaps
 
